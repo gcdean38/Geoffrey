@@ -1,0 +1,1 @@
+Graph Builder(	Variables( X( :medal rate ) ),	Elements( Box Plot( X, Legend( 3 ) ) ),	SendToReport(		Dispatch(			{},			"graph title",			TextEditBox,			{Set Text(				"Rate At Which National Teams Finish In Top 3 of International Tournaments"			)}		)	));
